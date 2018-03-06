@@ -2,7 +2,7 @@
 A Chrome extension that adds a custom tip to any price rendered on the page.
 
 ### UI
-![alt text](https://raw.githubusercontent.com/oliverpople/Tip_Adder/nandos_screenshot.png)
+![alt text](https://raw.githubusercontent.com/oliverpople/Tip_Adder/master/nandos_screenshot.png)
 
 ### Getting Started
 Checkout this repo, then load the extension into your Chrome Browser.
