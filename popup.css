@@ -1,0 +1,41 @@
+body {
+  width:310px;
+  height:55px;
+  background-color: #84DA93;
+}
+
+.question  {
+  text-align: center;
+}
+
+.question div {
+  padding: 10px;
+  float: left;
+  display: inline-block;
+  vertical-align: middle;
+  color: white;
+  font-size: 25;
+  font: helvetica;
+}
+
+#questionText {
+  margin-left:20px;
+}
+
+#percentage {
+  margin-top: 10px;
+  background: #84DA93;
+  color: white;
+  border-color: white;
+  outline-color: white;
+}
+
+#save {
+  margin-top: 10px;
+}
+
+#status {
+  display: block;
+  margin-bottom: 10px;
+  float: right;
+}
